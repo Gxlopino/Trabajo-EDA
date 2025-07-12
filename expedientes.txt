@@ -1,0 +1,5 @@
+72522645;Fernando Jesus;962526810;Miembro UL;fernandoquisspegamezb1@gmail.com;Alta;Solicitud psicológica;no aplica;3;2025-07-07;2025-07-08;Sa454.pdf;Administrador
+72522645;Fernando Jesus;962526810;Miembro UL;fernandoquisspegamezb1@gmail.com;Alta;Registro laboral;no aplica;3;2025-07-07;2025-07-07;Rl454.pdf;Administrador
+72522645;Fernando Jesus;962526810;Miembro UL;fernandoquisspegamezb1@gmail.com;Media;Certificado prácticas;no aplica;2;2025-07-08;2025-07-11;null;Administrador
+72522645;Fernando Jesus;962526810;Miembro UL;fernandoquisspegamezb1@gmail.com;Alta;Solicitud psicológica;no aplica;2;2025-07-07;2025-07-07;null;Bienestar
+72522645;Fernando Jesus;962526810;Miembro UL;fernandoquisspegamezb1@gmail.com;Media;Certificado prácticas;no aplica;2;2025-07-08;2025-07-11;null;Empleabilidad

@@ -1,0 +1,13 @@
+# requirements.txt para pruebas de proyecto académico Java
+# Este archivo es útil si usas herramientas como Jython, Py4J o testing con frameworks externos en Python.
+# Si solo usas Java puro, este archivo es opcional y puedes ignorarlo.
+
+# Ejemplo de dependencias útiles para pruebas automáticas o integración (no obligatorias):
+# junit:junit:4.13.2
+# org.mockito:mockito-core:4.8.0
+# Si usas Maven o Gradle, gestiona dependencias en pom.xml o build.gradle
+
+# Si usas Python para pruebas externas:
+# py4j==0.10.9.7
+# jnius==1.4.2
+# pytest==8.2.1
